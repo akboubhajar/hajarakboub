@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Web and Mobile Developer</h3>
 
 <p align="left"><img src="https://mrwallpaper.com/images/high/programming-language-stacked-cubes-o6ete8w4aqet8mv7.webp"
-<img alt="coding" src="" width=900px height=650px>
+<img alt="coding" src="" width=1000px height=650px>
 
 
 
