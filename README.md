@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Web and Mobile Developer</h3>
 
 <p align="left"><img src="https://mrwallpaper.com/images/high/programming-language-stacked-cubes-o6ete8w4aqet8mv7.webp"
-<img alt="coding" src="" width=1000px height=650px>
+<img alt="coding" src="" width=1000px height=400px>
 
 
 
@@ -46,16 +46,9 @@
 
    </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akboubhajar&show_icons=true&locale=en&layout=compact" alt="akboubhajar" /></p>
 
 
 <h1 dir="auto">
-    <a id="user-content-️random-dev-quote" class="anchor" aria-hidden="true" href="#️random-dev-quote">
-        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg>
-    </a>
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-message-circle">
-        <path d="M22 2H2C0.89543 2 0 2.89543 0 4V17.316C0 18.2712 0.703691 19 1.59122 19.4217L5.5 21L9.99976 18.4215C10.2208 18.2934 10.4712 18.2283 10.7246 18.2283C10.9781 18.2283 11.2285 18.2934 11.4495 18.4215L15.9998 21L20.9088 19.4217C21.7963 19 22.5 18.2712 22.5 17.316V4C22.5 2.89543 21.6046 2 20.5 2H22Z"></path>
-    </svg>
-    Remember, when you forgive, you heal.
-    And when you let go, you grow.
+  The only way to do great work 
+    is to love what you do
 </h1>
